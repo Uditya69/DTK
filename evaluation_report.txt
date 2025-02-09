@@ -1,0 +1,8 @@
+Level: L1, Passed tests: 0, Total tests: 2
+	Mismatch found in file: /home/uditya/dev/LPU_Defend_The_Kingdom_BootCamp_2025/outputs/L1/t2_output.txt
+	Mismatch found in file: /home/uditya/dev/LPU_Defend_The_Kingdom_BootCamp_2025/outputs/L1/t1_output.txt
+Level: L2, Passed tests: 0, Total tests: 2
+	Mismatch found in file: /home/uditya/dev/LPU_Defend_The_Kingdom_BootCamp_2025/outputs/L2/t2_output.txt
+	Mismatch found in file: /home/uditya/dev/LPU_Defend_The_Kingdom_BootCamp_2025/outputs/L2/t1_output.txt
+Level: L3, Passed tests: 0, Total tests: 1
+	Mismatch found in file: /home/uditya/dev/LPU_Defend_The_Kingdom_BootCamp_2025/outputs/L3/t1_output.txt
