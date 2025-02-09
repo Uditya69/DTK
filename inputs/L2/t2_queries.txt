@@ -1,0 +1,3 @@
+print destroyed ships
+print remaining ships
+exit

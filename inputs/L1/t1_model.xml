@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Island>
+    <Troop>
+        <Name>VirtualSamurai</Name>
+        <RateOfDamage>20</RateOfDamage>
+    </Troop>
+    <Troop>
+        <Name>CyberNinja</Name>
+        <RateOfDamage>2</RateOfDamage>
+    </Troop>
+    <Troop>
+        <Name>DigitalPirate</Name>
+        <RateOfDamage>5</RateOfDamage>
+    </Troop>
+    <Ship id="1">
+        <Strength>2</Strength>
+        <TimeLimit>20</TimeLimit>
+    </Ship>
+</Island>

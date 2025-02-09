@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Island>
+    <Troop>
+        <Name>DigitalPirate</Name>
+        <RateOfDamage>10</RateOfDamage>
+    </Troop>
+    <Troop>
+        <Name>CyberNinja</Name>
+        <RateOfDamage>30</RateOfDamage>
+    </Troop>
+    <Troop>
+        <Name>VirtualSamurai</Name>
+        <RateOfDamage>70</RateOfDamage>
+    </Troop>
+    <Troop>
+        <Name>QuantumKnight</Name>
+        <RateOfDamage>20</RateOfDamage>
+    </Troop>
+    <Troop>
+        <Name>NanoWarrior</Name>
+        <RateOfDamage>50</RateOfDamage>
+    </Troop>
+    <Ship id="1">
+        <Strength>20</Strength>
+        <TimeLimit>10</TimeLimit>
+    </Ship>
+	<Ship id="2">
+        <Strength>50</Strength>
+        <TimeLimit>20</TimeLimit>
+    </Ship>
+    <Ship id="3">
+        <Strength>200</Strength>
+        <TimeLimit>100</TimeLimit>
+    </Ship>
+    <Ship id="4">
+        <Strength>20</Strength>
+        <TimeLimit>100</TimeLimit>
+    </Ship>
+    <Ship id="5">
+        <Strength>20</Strength>
+        <TimeLimit>90</TimeLimit>
+    </Ship>
+</Island>
