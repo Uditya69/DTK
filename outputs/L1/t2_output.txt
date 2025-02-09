@@ -1,0 +1,1 @@
+Error reading initial values: Cannot invoke "org.w3c.dom.Node.getTextContent()" because the return value of "org.w3c.dom.NodeList.item(int)" is null
